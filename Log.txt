@@ -8,3 +8,59 @@ New Operation
 4*2
 8
 
+New Operation
+-8+3
+-5
+
+New Operation
+1+6*9/-8+3
+7*9/-8+3
+63/-8+3
+0
+
+New Operation
+-9+8*-3+4+5+2
+-1*-3+4+5+2
+3+4+5+2
+7+5+2
+12
+
+New Operation
+8*5*3
+40*3
+120
+
+New Operation
+-2+9*6*3
+7*6*3
+42*3
+126
+
+New Operation
+12+8/9*5
+20/9*5
+0*5
+0
+
+New Operation
+4/5
+1
+
+New Operation
+9+-2+9*5/2
+7+9*5/2
+16*5/2
+80
+
+New Operation
+2/7*5+2
+3*5+2
+15+2
+17
+
+New Operation
+2+2/7*5+2
+4/7*5+2
+1*5+2
+5
+

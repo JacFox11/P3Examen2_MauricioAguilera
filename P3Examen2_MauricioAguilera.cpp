@@ -9,7 +9,7 @@ int main(){
 		Stack* pila=new Stack();
 		int counter=0;
 		string temp;
-		for (int i=0; i<value.size(); i++){
+		for (int i=0; i<value.size(); i++){//lee los caracteres uno por uno
 			temp="";
 			while (value[i]!='+' && value[i]!='-' && value[i]!='*' && value[i]!='/' && i<value.size()){
 				temp+=value[i];
@@ -50,7 +50,7 @@ int main(){
 		ofstream Escribir;
         Escribir.open("Log.txt", ios::app);
         Escribir<<"New Operation"<<endl;
-		while (cont<counter){
+		while (cont<counter){//se repetira la cantidad de nodos
 			int cont2=0;
 			Node* node_temp=pila->Top();
 			while (cont2<counter_temp){

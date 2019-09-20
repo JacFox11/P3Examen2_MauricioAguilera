@@ -1,0 +1,10 @@
+New Operation
+3*4+2
+12+2
+14
+
+New Operation
+2*2*2
+4*2
+8
+

@@ -44,6 +44,8 @@ class Node{
 		void print(){
 			cout<<value;
 		}
+		
+		~Node(){}
 };
 
 #endif

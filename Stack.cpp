@@ -32,12 +32,15 @@ class Stack{
 		}
 		
 		bool isEmpty(){
+			cout<<head->getNext();
 			if (head->getNext()==NULL){
 				return true;
 			}else{
 				return false;
 			}
 		}
+		
+		~Stack(){}
 };
 
 #endif

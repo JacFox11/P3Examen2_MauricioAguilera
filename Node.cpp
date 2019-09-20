@@ -22,6 +22,7 @@ class Node{
 		
 		Node(string value){
 			this->value=value;
+			next_node=NULL;
 		}
 		
 		string getValue(){
